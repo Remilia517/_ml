@@ -105,6 +105,8 @@ print("語音描述輸出：", description)
 
 ---
 
+報告由了解後以ChatGPT生成並修改。
+
 ## 參考資料
 
 1. [Google A2A 協議深度解析與與 MCP 關係](https://ikala.ai/zh-tw/blog/ikala-ai-insight/an-in-depth-analysis-of-googles-a2a-protocol-and-its-relationship-with-anthropics-mcp-ch/)
