@@ -1,2 +1,1 @@
-HW6到HW9皆有參考ChatGPT程式碼後進行修改並理解
-HW10,HW11全部為ChatGPT程式碼
+HW6到HW9皆有參考ChatGPT程式碼後進行修改並理解 HW10,HW11全部為ChatGPT程式碼
